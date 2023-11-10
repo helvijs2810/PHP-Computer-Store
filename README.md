@@ -3,10 +3,10 @@
 A second year project of simple store for computer parts using PHP and mySQL.
 
 Features:
--Add items to cart
--Remove items from cart
--Select quantity
--Automatically calculates final price
+- Add items to cart
+- Remove items from cart
+- Select quantity
+- Automatically calculates final price
 
 Preview:
 
